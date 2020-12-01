@@ -12,4 +12,4 @@ Currently this theme only reskins both the login and the login 2-factor auth cod
 
 ### Installation
 
-If using Docker you can copy the contents of the `theme` folder to `/opt/jboss/keycloak/themes/tukey-theme`. Then in the admin theme tab you can assign `tukey-theme` to the login page.
+If using Docker you can copy the `tukey-theme` directory and contents to `/opt/jboss/keycloak/themes`. Then in the admin theme tab you can assign `tukey-theme` to the login page.
